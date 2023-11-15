@@ -106,6 +106,9 @@ $ for var in AWS_ACCESS_KEY_ID AWS_SECRET_ACCESS_KEY AWS_SESSION_TOKEN AWS_SECUR
 
 - Install [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html)
 
+**INSTALL AWSCLI DIRECTLY ON YOUR WINDOWS**
+- msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi
+
 ## Terraform install on windows using a packet manager
 -Install terraform on windows using the windows package manager(Use powershell and install as administrator).
     **$ choco install terraform**
